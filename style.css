@@ -127,7 +127,7 @@ body {
 /* After the heart is clicked */
 #intro.opened .title,
 #intro.opened .start-hint { max-height: 0; opacity: 0; }
-#intro.opened .heart-btn  { width: min(80vw, 50vh); width: min(80vw, 50dvh); cursor: default; pointer-events: none; }
+#intro.opened .heart-btn  { width: min(92vw, 58vh); width: min(92vw, 58dvh); cursor: default; pointer-events: none; }
 #intro.opened .heart-btn .heart-svg { animation-duration: 2.2s; }
 #intro.opened .heart-btn .photo     { opacity: 1; }
 #intro.opened .note { max-height: 3rem; opacity: 1; margin-top: 1.3rem; }
@@ -156,8 +156,8 @@ body {
 .line .g { visibility: hidden; }
 
 .story-heart {
-  width: min(68vw, 40vh);
-  width: min(68vw, 40dvh);
+  width: min(88vw, 48vh);
+  width: min(88vw, 48dvh);
   margin-top: 1.3rem;
   opacity: 0;
 }
