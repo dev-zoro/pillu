@@ -107,7 +107,7 @@ body {
 .start-hint, .note, .hint {
   font-family: var(--sans);
   font-style: italic;
-  font-size: .9rem;
+  font-size: 1.05rem;
   letter-spacing: .02em;
   color: var(--ink-soft);
 }
@@ -147,7 +147,7 @@ body {
 .page.fading { opacity: 0; }
 
 .line {
-  font-size: clamp(1.2rem, 5vw, 1.9rem);
+  font-size: clamp(1.45rem, 6.4vw, 2.2rem);
   line-height: 1.5;
   max-width: min(92vw, 26em);
 }
@@ -171,7 +171,7 @@ body {
 
 .signature {
   margin-top: .9rem;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: var(--heart);
   opacity: 0;
   transition: opacity 1s ease;
@@ -183,7 +183,7 @@ body {
 .replay {
   margin-top: 1.1rem;
   padding: .45rem 1.2rem;
-  font: italic .9rem var(--sans);
+  font: italic 1rem var(--sans);
   color: var(--ink);
   background: transparent;
   border: 1px solid var(--ink-soft);
