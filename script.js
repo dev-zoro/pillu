@@ -30,7 +30,7 @@
 				"You are the most beautiful!",
 				"You are the most charming!",
 			],
-			photo: "images/photo2.png",
+			photo: "images/photo2.jpg",
 		},
 
 		{
@@ -46,16 +46,16 @@
 				"...\u201CWith you, I need nothing else\u201D",
 				"I will love you until the end of my days \u2665",
 			],
-			photo: "images/photo1.jpg",
-		}, // stand-in: change to 'images/photo4.jpg' once you add a 5th photo
+			photo: "images/photo4.png",
+		}, // stand-in: change to 'images/photo4.png' once you add a 5th photo
 
 		{
 			lines: [
 				"Trust me, \u2018We will have a wonderful journey for the rest of our lives \u2665\u2019 :*",
 				"-- Love you always --",
 			],
-			photo: "images/photo0.jpg",
-		}, // stand-in: change to 'images/photo5.jpg' once you add a 6th photo
+			photo: "images/photo5.jpg",
+		}, // stand-in: change to 'images/photo5.png' once you add a 6th photo
 	];
 
 	// Shown under the last heart. Set to '' to hide it.
