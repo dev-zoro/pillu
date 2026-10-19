@@ -13,7 +13,7 @@
 	/* ==========  EDIT THIS PART  ========== */
 
 	// Photo inside the big heart you click at the start.
-	const COVER_PHOTO = "images/photo0.png";
+	const COVER_PHOTO = "images/photo0.jpg";
 
 	// Each page = 2 lines + 1 photo (shown in a heart under the lines).
 	const PAGES = [
@@ -46,8 +46,8 @@
 				"...\u201CWith you, I need nothing else\u201D",
 				"I will love you until the end of my days \u2665",
 			],
-			photo: "images/photo4.png",
-		}, // stand-in: change to 'images/photo4.png' once you add a 5th photo
+			photo: "images/photo4.jpg",
+		}, // stand-in: change to 'images/photo4.jpg' once you add a 5th photo
 
 		{
 			lines: [
@@ -55,7 +55,7 @@
 				"-- Love you always --",
 			],
 			photo: "images/photo5.jpg",
-		}, // stand-in: change to 'images/photo5.png' once you add a 6th photo
+		}, // stand-in: change to 'images/photo5.jpg' once you add a 6th photo
 	];
 
 	// Shown under the last heart. Set to '' to hide it.
